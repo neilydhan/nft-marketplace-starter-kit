@@ -17,3 +17,10 @@ https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-exp
 
 Good luck and have fun!
 
+K1: https://i.ibb.co/KzpnH3L/k1.png
+K2: https://i.ibb.co/whKwZhf/k2.png
+K3: https://i.ibb.co/b57GHXN/k3.png
+K4: https://i.ibb.co/6yvW2CP/k4.png
+K5: https://i.ibb.co/kXtDxk4/k5.png
+K6: https://i.ibb.co/X8kvB2b/k6.png
+K7: https://i.ibb.co/R4s96Kn/k7.png
